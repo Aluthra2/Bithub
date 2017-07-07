@@ -1,0 +1,10 @@
+c:\users\fcs-bithub1\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+c:\users\fcs-bithub1\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+c:\users\fcs-bithub1\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+c:\users\fcs-bithub1\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.csprojResolveAssemblyReference.cache
+c:\users\fcs-bithub1\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Properties.Resources.resources
+c:\users\fcs-bithub1\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.csproj.GenerateResource.Cache
+c:\users\fcs-bithub1\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+c:\users\fcs-bithub1\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+c:\users\fcs-bithub1\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.AddressBook.resources
+C:\Users\fcs-bithub1\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.InitialView.resources
