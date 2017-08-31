@@ -58,48 +58,6 @@ namespace WindowsApp1
         }
 
 
-        /*private void TestFunc()
-        {
-            int nCount = 1;
-
-            PrincipalContext ctx = new PrincipalContext(ContextType.Machine);
-
-            using (PrincipalContext context = new PrincipalContext(ContextType.Domain, "employees"))
-            {
-                using (PrincipalSearcher searcher = new PrincipalSearcher(new UserPrincipal(context)))
-                {
-                    foreach (var result in searcher.FindAll())
-                    {
-                        DirectoryEntry de = result.GetUnderlyingObject() as DirectoryEntry;
-                        //Console.WriteLine("SAM account name   : " + de.Properties["samAccountName"].Value);
-
-                        UserPrincipal user = UserPrincipal.FindByIdentity(ctx, de.Properties["samAccountName"].Value.ToString());
-                        if (user != null)
-                        {
-                            string displayName = user.DisplayName;
-                            if (displayName != null)
-                                MessageBox.Show(displayName);
-                                //listBox1.Items.Add(displayName);
-
-                            if (nCount == 20)
-                                return;
-
-                            nCount++;
-
-                            //MessageBox.Show(user.BadLogonCount.ToString());
-                            if (user.IsAccountLockedOut())
-                            {
-                                // do something here....   
-                                MessageBox.Show("Yes");
-                            }
-                        }
-                    }
-                }
-            }
-            // find a user
-        }
-        */
-
         private void btnSearch_Click(object sender, EventArgs e)
         {
             try

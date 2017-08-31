@@ -8,3 +8,4 @@ c:\users\fcs-bithub1\documents\visual studio 2013\Projects\WindowsApp1\WindowsAp
 c:\users\fcs-bithub1\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
 c:\users\fcs-bithub1\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.AddressBook.resources
 C:\Users\fcs-bithub1\documents\visual studio 2013\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.InitialView.resources
+C:\Users\fcs-bithub1\Documents\Visual Studio 2013\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.csproj.CoreCompileInputs.cache

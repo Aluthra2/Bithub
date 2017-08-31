@@ -1,6 +1,9 @@
-C:\Users\fcs-bithub1\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
-C:\Users\fcs-bithub1\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
-C:\Users\fcs-bithub1\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
-C:\Users\fcs-bithub1\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
-C:\Users\fcs-bithub1\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
-C:\Users\fcs-bithub1\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\fcs-bithub1\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\fcs-bithub1\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\fcs-bithub1\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\fcs-bithub1\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\fcs-bithub1\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\fcs-bithub1\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\fcs-bithub1\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\MySql.Data.dll
+C:\Users\fcs-bithub1\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\MySql.Data.xml
+C:\Users\fcs-bithub1\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache

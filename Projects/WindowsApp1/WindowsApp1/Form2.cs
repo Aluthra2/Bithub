@@ -30,12 +30,14 @@ namespace WindowsApp1
 
         private void btn_SendReport_Click(object sender, EventArgs e)
         {
+            String filepath = @"C:\bithubReports\Report.txt";
+
             try
             {
                 mail.MailMessage message;
                 mail.SmtpClient smtp;
-                message = new mail.MailMessage("aluthra1@pride.hofstra.edu", "aluthra1@pride.hofstra.edu", "Test", "Sample Body");
-                mail.Attachment att1 = new mail.Attachment(@"C:\Users\fcs-bithub1\Documents\Hello.txt");
+                message = new mail.MailMessage("aluthra1@pride.hofstra.edu", "aluthra1@pride.hofstra.edu", "OpScan Report", "Sample Body");
+                mail.Attachment att1 = new mail.Attachment(filepath);
                 //mail.Attachment att2 = new mail.Attachment(@"C:\Users\fcs-bithub1\Documents\Hello.txt");
                 //mail.Attachment att3 = new mail.Attachment(@"C:\Users\fcs-bithub1\Documents\Hello.txt");
                 message.Attachments.Add(att1);
